@@ -80,3 +80,8 @@ a {
     color: #3f51b5;
     font-size: 24px;
 }
+
+.news-meta-item {
+    list-style-type: none;
+    display: inline;
+}
